@@ -1,0 +1,4 @@
+
+const functionName = (parameterList) => {
+	// functionBody
+}
