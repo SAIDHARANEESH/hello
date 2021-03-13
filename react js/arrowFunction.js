@@ -1,4 +1,0 @@
-
-const functionName = (parameterList) => {
-	// functionBody
-}
